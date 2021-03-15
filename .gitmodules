@@ -1,3 +1,6 @@
 [submodule "phpdasar"]
 	path = phpdasar
 	url = https://github.com/abuabdirohman4/01_phpdasar.git
+[submodule "01_phpdasar"]
+	path = 01_phpdasar
+	url = https://github.com/abuabdirohman4/01_phpdasar.git
