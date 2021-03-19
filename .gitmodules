@@ -4,3 +4,21 @@
 [submodule "FND_02_rest-api"]
 	path = FND_02_rest-api
 	url = https://github.com/abuabdirohman4/FND_02_rest-api
+[submodule "FND_03_kaggle_explorations"]
+	path = FND_03_kaggle_explorations
+	url = https://github.com/abuabdirohman4/FND_03_kaggle_explorations.git
+[submodule "FND_04_30daysJavascipt"]
+	path = FND_04_30daysJavascipt
+	url = https://github.com/abuabdirohman4/FND_04_30daysJavascipt
+[submodule "FND_05_boxModel_Latihan"]
+	path = FND_05_boxModel_Latihan
+	url = https://github.com/abuabdirohman4/FND_05_boxModel_Latihan
+[submodule "FND_06_Javascript_Lanjutan"]
+	path = FND_06_Javascript_Lanjutan
+	url = https://github.com/abuabdirohman4/FND_06_Javascript_Lanjutan
+[submodule "FND_07_Javascript_DOM_SekolahKoding"]
+	path = FND_07_Javascript_DOM_SekolahKoding
+	url = https://github.com/abuabdirohman4/FND_07_Javascript_DOM_SekolahKoding
+[submodule "FND_08_hacker_rank"]
+	path = FND_08_hacker_rank
+	url = https://github.com/abuabdirohman4/FND_08_hacker_rank
