@@ -1,3 +1,6 @@
 [submodule "FND_01_phpdasar"]
 	path = FND_01_phpdasar
 	url = https://github.com/abuabdirohman4/FND_01_phpdasar.git
+[submodule "FND_02_rest-api"]
+	path = FND_02_rest-api
+	url = https://github.com/abuabdirohman4/FND_02_rest-api
